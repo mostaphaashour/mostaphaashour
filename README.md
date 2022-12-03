@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning frontend development 
 
-- 📫 How to reach me mostaphaashour142@gmail.com
+- 📫 How to reach me, you can send mail on mostaphaashour142@gmail.com
 
 <!---
 mostaphaashour/mostaphaashour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
