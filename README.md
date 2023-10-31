@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mostaphaashour
 - 👀 I’m interested in web development 
-- 🌱 I’m Frontend Developer (React.js) 
-- 🛸 I'm currently learning NEXT.JS
+- 🌱 I’m Frontend Developer (React.js || NEXT.js) 
+- 🛸 I'm currently learning the Backend development 
 - 📫 How to reach me, you can send mail on mostaphaashour142@gmail.com
 
 <!---
